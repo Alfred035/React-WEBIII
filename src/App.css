@@ -1,0 +1,14 @@
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 40px 16px;
+
+  background: linear-gradient(
+    135deg,
+    #aab5e8 0%,
+    #c4cdf0 100%
+  );
+}
